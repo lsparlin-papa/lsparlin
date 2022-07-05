@@ -4,7 +4,7 @@ I'm a full stack developer. I really enjoy writing Ruby on Rails, but like to co
 
 -----
 
-💻  Senior Software Developer [@knowndecimal](https://github.com/knowndecimal)
+💻  Senior Software Consultant [@testdouble](https://github.com/testdouble)
 
 ☕️ Brewer of fine coffees
 
